@@ -1,4 +1,12 @@
 {
+  "name": "stitch-ads-3.0",
+  "version": "2018.1.0",
+  "description": "Web-client to create, edit and publish multiple HTML5 Digital Ads.",
+  "main": "main.js",
+  "repository": "git@github.com:bigp/stitch-ads-2018.git",
+  "author": "Pierre Chamberlain <bigp@pierrechamberlain.ca>",
+  "license": "MIT",
+
   "dependencies": {
     "yargs": "^11.0.0"
   }
